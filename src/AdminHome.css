@@ -1,0 +1,14 @@
+.setTab
+{
+    padding-top: 10%;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: white;
+    background-color: #fadd02;
+}
+
+.centercont
+{
+    margin-top: 5%;
+}

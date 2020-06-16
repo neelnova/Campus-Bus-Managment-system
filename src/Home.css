@@ -1,0 +1,62 @@
+.containerrr
+{
+    margin-top: 5%;
+    /* background-color: #fadd02; */
+    padding: 2%;    
+}
+.colmargin
+{
+    margin-top:3% !important;
+}
+.crd
+{
+    width: 18rem;
+}
+.fontt
+{
+    /* color:white; */
+}
+.fntasm
+{
+    height: 10% !important;
+    width: 5% !important;
+}
+.cardBack
+{
+    background-color: #f7e97e;
+}
+.pspace
+{
+    margin-top: 10px;
+    font-family: unset;
+    color: black;
+}
+.iconStyle
+{
+    font-weight: bolder;
+    text-align: center;
+    /* margin-left: 35px;
+    margin-right: 10px; */
+    float: center;
+    
+}
+/* .serviceBox
+{
+    width:100%;
+    margin: 0 auto;
+    margin-top:75px;
+    height:250px;
+     border:1px solid black; 
+}
+.serviceBox1, .serviceBox2, .serviceBox3{
+     float:left; 
+    width:50%;
+} */
+.footercont
+{
+    box-shadow: 0px 0px 3px 0px;
+    background-color: #f2ca1b;
+    color: black;
+}
+
+ 

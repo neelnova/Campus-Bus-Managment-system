@@ -1,0 +1,104 @@
+.formm
+{
+    margin-top: 7%;
+    margin-left:20%;
+}
+.jumbotron
+{
+     
+
+}
+
+.fcontrol
+{
+    border:0;
+    border-bottom: 1px solid gray;
+}
+.btnColor
+  {
+    background-color: #FC67AC;
+    border: 0px;
+    margin-left: 5px;
+  }
+  .controlcenter
+  {
+      margin-left: 15%;
+  }
+  .fieldsett
+  {
+      margin-left: 30%;
+  }
+  legend{
+      font-weight: bolder;
+  }
+
+  .fs{
+      height: 230px !important ;
+      width: 350px !important;
+      padding-left: 50px !important;
+      padding-top: 20px !important ;
+
+  }
+  .textin
+  {
+    margin-top: 20px!important;
+  }
+  .divcont
+  {
+      margin-top:100px!important;
+  }
+  .formm
+{
+    margin-top: 7%;
+    margin-left:20%;
+}
+.jumbotron
+{
+     
+
+}
+
+.fcontrol
+{
+    border:0;
+    border-bottom: 1px solid gray;
+}
+.btnColor
+  {
+    background-color: #FC67AC;
+    border: 0px;
+    margin-left: 5px;
+  }
+  .controlcenter
+  {
+      margin-left: 15%;
+  }
+  .fieldsett
+  {
+      margin-left: 30%;
+  }
+  legend{
+      font-weight: bolder;
+  }
+
+  .fs{
+      height: 230px !important ;
+      width: 350px !important;
+      padding-left: 50px !important;
+      padding-top: 20px !important ;
+
+  }
+  .textin
+  {
+    margin-top: 20px!important;
+  }
+  .divcont
+  {
+      margin-top:100px!important;
+  }
+  .inn{
+    border: 0 !important;
+    outline: 0 !important;
+    background: transparent !important;
+    border-bottom: 1px solid black !important;
+  }

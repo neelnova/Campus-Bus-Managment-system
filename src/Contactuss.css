@@ -1,0 +1,104 @@
+/* .formm
+{
+    margin-top: 7%;
+    margin-left:20%;
+}
+.jumbotron
+{
+     
+
+}
+
+.fcontrol
+{
+    border:0;
+    border-bottom: 1px solid gray;
+}
+.btnColor
+  {
+    background-color: #FC67AC;
+    border: 0px;
+    margin-left: 5px;
+  }
+  .controlcenter
+  {
+      margin-left: 15%;
+  }
+  .fieldsett
+  {
+      margin-left: 30%;
+  }
+  legend{
+      font-weight: bolder;
+  }
+
+  .fs{
+      height: 230px !important ;
+      width: 350px !important;
+      padding-left: 50px !important;
+      padding-top: 20px !important ;
+
+  }
+  .textin
+  {
+    margin-top: 20px!important;
+  }
+  .divcont
+  {
+      margin-top:100px!important;
+  } */
+ /* .bodyy{
+   
+    
+ } */
+ .bgimg{
+    background-image:url(/public/Images/back1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    /* margin-top: 100px; */
+    
+    
+
+ }
+ .clcss
+ {
+     margin-top: 50px;
+     box-shadow: 100%;
+     background-color:rgba(0,0,0,0.-50);
+ }
+ .fontgiven
+ {
+     /* font-style: italic; */
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: bolder;
+     color: deeppink;
+ }
+ .jumbotron
+ {
+     margin-top: 5%;
+     border-radius: 5%;
+     box-shadow: 0 0 20px 0 rgba(0,0,0,0.2),0 5px 5px 0 rgba(0,0,0,0.24);
+ }
+ .mar
+ {
+     margin-top: 10%;
+ }
+ .buttonn
+ {
+    background-color: #fadd02;
+    height: 40px !important;
+    width: 200px !important;
+    border: 0px;
+    color: black;
+    margin-left: 100px;
+    margin-top: 30px;
+ }
+ .buttonn:hover{
+    height: 60px !important;
+    width: 240px !important;
+
+ }
+ .inqcolor
+ {
+    color: #fadd02;
+ }
